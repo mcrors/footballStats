@@ -1,0 +1,32 @@
+Country,League,Season,Date,Time,Home,Away,HG,AG,Res,PH,PD,PA,MaxH,MaxD,MaxA,AvgH,AvgD,AvgA
+Argentina,Primera Division,2018/2019,01/02/2019,22:00,Gimnasia L.P.,Tigre,3,1,H,2.58,3.11,3.1,2.58,3.15,3.2,2.45,3.03,3.02
+Argentina,Primera Division,2018/2019,02/02/2019,00:10,San Martin T.,Defensa y Justicia,1,2,A,4,3.19,2.13,4.33,3.2,2.18,3.79,3.06,2.09
+Argentina,Primera Division,2018/2019,02/02/2019,00:10,Talleres Cordoba,Banfield,3,1,H,2.34,2.87,3.9,2.37,3,4,2.25,2.87,3.66
+Argentina,Primera Division,2018/2019,02/02/2019,20:10,San Lorenzo,Independiente,0,0,D,3.23,3.13,2.49,3.3,3.15,2.5,3.09,3.02,2.42
+Argentina,Primera Division,2018/2019,02/02/2019,22:20,Argentinos Jrs,Belgrano,0,0,D,2.22,3.09,3.9,2.37,3.09,3.9,2.21,2.95,3.62
+Argentina,Primera Division,2018/2019,02/02/2019,22:20,Lanus,Colon Santa FE,1,0,H,1.96,3.35,4.46,2,3.35,4.75,1.92,3.2,4.28
+Argentina,Primera Division,2018/2019,03/02/2019,00:30,Rosario Central,Aldosivi,0,0,D,2.22,2.89,4.25,2.25,3.1,4.25,2.14,2.9,3.94
+Argentina,Primera Division,2018/2019,03/02/2019,20:10,Boca Juniors,Godoy Cruz,2,0,H,1.3,5.5,10.86,1.3,5.5,15,1.28,5.12,10.86
+Argentina,Primera Division,2018/2019,03/02/2019,20:10,Union de Santa Fe,Newells Old Boys,0,0,D,2.38,2.94,3.68,2.42,3.1,3.68,2.29,2.91,3.47
+Argentina,Primera Division,2018/2019,03/02/2019,22:20,Racing Club,Huracan,3,1,H,1.44,4.62,7.71,1.47,4.65,8,1.44,4.28,7.14
+Argentina,Primera Division,2018/2019,04/02/2019,00:30,Velez Sarsfield,River Plate,1,2,A,2.99,3.04,2.72,3.04,3.1,2.72,2.92,2.94,2.59
+Argentina,Primera Division,2018/2019,04/02/2019,22:00,Patronato,Atl. Tucuman,3,0,H,3.36,3.21,2.37,3.36,3.24,2.41,3.18,3.08,2.33
+Argentina,Primera Division,2018/2019,05/02/2019,00:10,San Martin S.J.,Estudiantes L.P.,3,0,H,2.92,2.93,2.88,2.92,3,2.91,2.79,2.86,2.78
+Mexico,Liga MX,2018/2019,02/02/2019,01:00,Monarcas,Atlas,1,2,A,2.49,3.5,2.91,2.51,3.5,2.95,2.41,3.27,2.82
+Mexico,Liga MX,2018/2019,02/02/2019,03:00,Puebla,Necaxa,1,4,A,2.7,3.16,2.91,2.7,3.22,2.95,2.55,3.07,2.79
+Mexico,Liga MX,2018/2019,02/02/2019,23:00,Club America,Queretaro,2,0,H,1.46,4.33,7.98,1.48,4.47,8,1.44,4.23,6.98
+Mexico,Liga MX,2018/2019,03/02/2019,01:00,Club Leon,Cruz Azul,2,0,H,2.29,3.38,3.34,2.38,3.38,3.5,2.25,3.15,3.19
+Mexico,Liga MX,2018/2019,03/02/2019,01:00,U.A.N.L.- Tigres,Santos Laguna,2,1,H,1.78,3.73,4.89,1.79,3.75,5,1.74,3.54,4.6
+Mexico,Liga MX,2018/2019,03/02/2019,03:06,Club Tijuana,Toluca,2,0,H,2.64,3.27,2.89,2.64,3.35,3,2.48,3.16,2.8
+Mexico,Liga MX,2018/2019,03/02/2019,18:00,U.N.A.M.- Pumas,Monterrey,1,1,D,3.62,3.49,2.13,3.85,3.6,2.13,3.45,3.37,2.05
+Mexico,Liga MX,2018/2019,03/02/2019,22:00,Lobos BUAP,Pachuca,1,1,D,3.36,3.69,2.16,3.55,3.7,2.16,3.26,3.47,2.08
+Mexico,Liga MX,2018/2019,05/02/2019,00:36,Guadalajara Chivas,Veracruz,0,0,D,1.44,4.55,7.93,1.46,4.55,8.5,1.42,4.22,7.46
+Romania,Liga 1,2018/2019,01/02/2019,15:00,Concordia,FC Botosani,0,1,A,3.38,3.24,2.34,3.51,3.25,2.34,3.27,3.12,2.2
+Romania,Liga 1,2018/2019,01/02/2019,18:00,Gaz Metan Medias,Astra,1,1,D,2.65,2.94,3.14,2.71,2.95,3.14,2.52,2.88,2.95
+Romania,Liga 1,2018/2019,02/02/2019,12:00,Calarasi,FC Steaua Bucuresti,1,1,D,6.01,3.89,1.63,6.5,3.89,1.64,5.65,3.66,1.58
+Romania,Liga 1,2018/2019,02/02/2019,18:00,CFR Cluj,FC Hermannstadt,1,1,D,1.48,3.91,9.21,1.51,4.05,9.21,1.46,3.77,7.76
+Romania,Liga 1,2018/2019,03/02/2019,15:00,Voluntari,Sepsi,4,2,H,3.77,3.37,2.12,3.9,3.37,2.12,3.66,3.16,2.05
+Romania,Liga 1,2018/2019,03/02/2019,18:00,Viitorul Constanta,U Craiova 1948 CS,0,0,D,2.5,3.01,3.34,2.5,3.2,3.35,2.4,2.96,3.07
+Romania,Liga 1,2018/2019,04/02/2019,18:00,Din. Bucuresti,Poli Iasi,3,0,H,2.11,3.21,4.04,2.12,3.35,4.09,2.04,3.13,3.7
+Switzerland,Super League,2018/2019,02/02/2019,18:00,Young Boys,Xamax,2,0,H,1.29,5.98,9.59,1.3,6.5,11.5,1.26,5.89,9.26
+Switzerland,Super League,2018/2019,03/02/2019,15:00,Grasshoppers,Basel,0,4,A,5.08,4.13,1.67,5.75,4.3,1.67,4.96,4,1.62
